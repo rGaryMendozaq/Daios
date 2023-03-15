@@ -5,7 +5,7 @@ You can make NoiseMaps in 8000x8000(or more) pixels with 16 bits per pixel for f
 
 And i got a lot of ideas.
 
-inside of the code exist functions like:
+in the next update i'll incluye this functions:
 
 invert.
 
