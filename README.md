@@ -23,4 +23,4 @@ add.
 
 (i use libnoise for create this app, and use basically the same modules).
 
-and erode function that i Will unclude in the next realeses.
+and erode function that i'll unclude in the next realeses.
